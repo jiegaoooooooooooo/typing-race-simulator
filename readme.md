@@ -40,7 +40,7 @@ The application is structured around fundamental Object-Oriented Programming (OO
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/jiegaoooooooooooo/typing-race-simulator.git
+   git clone https://github.com/jiegaoooooooooooo/typing-race-simulator
    cd typing-race-simulator
    ```
 
